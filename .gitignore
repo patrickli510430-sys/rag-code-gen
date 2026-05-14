@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+chroma_data/
+chroma_data_test/
+chroma_demo/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+metrics_history.json
+赛题制度文档/
