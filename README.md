@@ -1,30 +1,30 @@
 # FinReg RAG — 银行制度文档智能问答与审查系统
-
+  Banking Regulation Document Intelligent Q&A and Audit System
 > 基于 RAG + 大模型的银行制度文档智能处理平台，面向金融机构合规与知识管理场景
-
+> An LLM-based RAG platform for intelligent processing of banking regulatory documents, tailored for financial compliance and knowledge management.
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-009688.svg)](https://fastapi.tiangolo.com/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ---
 
-## 目录
+## 目录/Table of Contents
 
-- [项目定位](#项目定位)
-- [核心功能](#核心功能)
-- [快速开始](#快速开始)
-- [使用示例](#使用示例)
-- [RAG 智能处理流水线](#rag-智能处理流水线)
-- [架构总览](#架构总览)
-- [技术栈](#技术栈)
-- [API 端点](#api-端点)
-- [配置参考](#配置参考)
-- [项目结构](#项目结构)
-- [安全设计](#安全设计)
+- [项目定位/project-positioning](#项目定位)
+- [核心功能/core-features](#核心功能)
+- [快速开始/quick-start](#快速开始)
+- [使用示例/usage-examples](#使用示例)
+- [RAG 智能处理流水线/rag-pipeline](#rag-智能处理流水线)
+- [架构总览/architecture-overview](#架构总览)
+- [技术栈/technical-stack](#技术栈)
+- [API 端点/api-endpoints](#api-端点)
+- [配置参考/configuration-reference](#配置参考)
+- [项目结构/project-structure](#项目结构)
+- [安全设计/security-design](#安全设计)
 
 ---
 
-## 项目定位
+## 项目定位 / Project Positioning
 
 银行日常经营需要处理海量政策文件、监管制度与业务文档。FinReg RAG 聚焦**大模型与金融专业场景的深度融合**，运用 RAG（检索增强生成）技术，实现以下核心能力：
 
