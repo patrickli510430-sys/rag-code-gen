@@ -1,6 +1,7 @@
 # FinReg RAG — 银行制度文档智能问答与审查系统
   Banking Regulation Document Intelligent Q&A and Audit System
 > 基于 RAG + 大模型的银行制度文档智能处理平台，面向金融机构合规与知识管理场景
+
 > An LLM-based RAG platform for intelligent processing of banking regulatory documents, tailored for financial compliance and knowledge management.
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-009688.svg)](https://fastapi.tiangolo.com/)
